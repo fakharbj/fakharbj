@@ -23,12 +23,7 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/fakharbj">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fakharbj&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="fakharbj's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=fakharbj&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="fakharbj's GitHub Streak" width="49%" />
-</p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=fakharbj&theme=highcontrast&radius=10" alt="fakharbj's Activity Graph" />
 </p>
