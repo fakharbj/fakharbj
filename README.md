@@ -1,4 +1,4 @@
-<!-- Header -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f4e79,100:6ea8dc&height=220&section=header&text=Fakhar%20Ul%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Development%20Manager%20%E2%80%A2%20WordPress%20Lead%20%E2%80%A2%20AI%20Automation&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
