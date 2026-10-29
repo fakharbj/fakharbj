@@ -1,118 +1,67 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Fakhar Ul Islam</h1>
-<h3 align="center">Senior Web Developer | Technical Lead</h3>
+# Fakhar Ul Islam
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=fakharbj">
-    <img src="https://komarev.com/ghpvc/?username=fakharbj&label=Profile%20views&color=00FFFF&style=flat-square" alt="fakharbj's profile views" />
-  </a>
-</p>
+**Senior software engineer and development team lead** · Lahore, Pakistan (UTC+5)
 
+[fakhar.tech](https://fakhar.tech) · [fakhardev@gmail.com](mailto:fakhardev@gmail.com)
 
-## 📌 About Me
-- 🌱 I'm currently learning advanced React, Next.js, cloud architecture, and scalable application development.
-- 👯 I'm looking to collaborate on web development, SaaS, WordPress, Shopify, and open source projects.
-- 🤝 I'm looking for help with building scalable products and exploring modern web technologies.
+I build websites and the systems under them. I lead the team that ships them, and I keep the servers they run on healthy.
 
+Since 2018 I've shipped more than **1,500 websites** on WordPress, WooCommerce, Shopify and Webflow: themes, stores, memberships and CRMs. I'm usually the person who gets called when a site is slow, broken or hacked.
 
-## 🧠 My Focus Areas
-- Web Development
-- Open Source Contribution
-- SaaS & Product Development
-- Cloud & Server Infrastructure
-- Technical Leadership
+---
 
+## What I do now
 
-## 📊 GitHub Stats & Trophies
+- **Lead a development team**: scoping, estimates, deadlines, code review and delivery for teams of 4–10
+- **Run the infrastructure** behind client sites: Linux servers, AWS, Google Cloud, cPanel/WHM, Cloudflare, DNS, mail and backups
+- **Fix what others couldn't**: performance, malware cleanup and hardening, and sites other people said to rebuild
+- **Build internal tools and small SaaS products**, fast, with AI in the loop
 
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=fakharbj&theme=highcontrast&radius=10" alt="fakharbj's Activity Graph" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+## Eight years, briefly
 
+| When | What |
+|---|---|
+| 2018 | Intern, then developer: custom WordPress themes and plugins |
+| 2020–22 | Project manager: every client, from the first requirements call to handover |
+| 2023 | Part-time builds: WooCommerce stores from Figma and XD, with Core Web Vitals and PageSpeed improved across the board |
+| 2024 | Senior: set the coding standard for a ten-person WordPress team, and led a startup's developers while running its servers |
+| Now | Development team lead |
 
-## 🛠️ Languages & Tools
+## What I work with
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+**Build:** sites and systems that hold up in production
+WordPress themes and plugins · WooCommerce · Shopify (Liquid) · Webflow · PHP · MySQL · React · Next.js · membership and subscription systems
 
-</p>
+**Connect:** making other people's software talk to yours
+REST and third-party APIs · CRM integrations · Google APIs · payment gateways · webhooks · data migrations
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+**Run:** keeping it online, fast and boring
+Linux · WHM / cPanel · AWS EC2 and Lightsail · Google Cloud · Cloudflare · DNS · mail servers · Google Workspace · Microsoft 365 · backups
 
-</p>
+**Fix:** the problems nobody else could find
+Core Web Vitals · PageSpeed · malware removal · site hardening · Search Console issues · escalations
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
+**Lead:** getting it shipped with other people
+Scoping and estimation · client communication · QA and sign-off · mentoring · explaining it to non-developers
 
-</p>
+## How I work
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+- **Measure first.** Profile the slow request before guessing at a fix.
+- **Fix the origin before caching it.** A cache on top of a slow site hides the problem; it doesn't solve it.
+- **Keep the plugins the business depends on, and control when they run.**
+- **Boring servers are good servers.** Isolated, monitored, backed up, and quiet.
 
-</p>
+## My site
 
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
+[**fakhar.tech**](https://fakhar.tech) is my portfolio, built as a 3D city you can travel through. Every lit window is one of the sites I've shipped. The case studies stand on its main street, and my desk is in the office by the water.
 
-</p>
+Built with Next.js, React, TypeScript and three.js. No 3D models to download: the city is generated in code. A [plain-text version](https://fakhar.tech/plain) is there too.
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+## Certifications
 
-</p>
+- JavaScript Algorithms and Data Structures, freeCodeCamp (2022)
+- Responsive Web Design, freeCodeCamp (2021)
 
-<p align="center">
-  <a href="https://github.com/fakharbj">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fakharbj&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+---
 
-![Top language](https://stats.pphat.top/languages?username=fakharbj)
-<br/>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/fakhar-islam-dev/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Fakhar Ul Islam's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://x.com/Fakharbj1"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Fakhar Ul Islam's Twitter"/></a>&nbsp;&nbsp;
-  <a href="mailto:fakhardev@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Fakhar Ul Islam's Email"/></a>&nbsp;&nbsp;
-  <a href="https://wa.me/5073126114456"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
-
-## 💬 Quote
-> Building scalable web solutions, leading teams, and turning ideas into production-ready products.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
+**Available for new projects.** Tell me what you're building, or what's broken: [fakhardev@gmail.com](mailto:fakhardev@gmail.com). I read every message myself and usually reply within a day.
