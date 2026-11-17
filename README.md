@@ -1,8 +1,8 @@
 # Fakhar Ul Islam
 
-Senior Software Engineer · Development Team Lead · Lahore, Pakistan
+Production web engineer and team lead. Linux-native: I run the servers I ship to. Performance, security and technical SEO. 1,500+ sites since 2018.
 
-[fakhar.tech](https://fakhar.tech) · [LinkedIn](https://www.linkedin.com/in/fakhar-islam-dev/) · [Email](mailto:fakhardev@gmail.com)
+Lahore, Pakistan · [fakhar.tech](https://fakhar.tech) · [LinkedIn](https://www.linkedin.com/in/fakhar-islam-dev/) · [Email](mailto:fakhardev@gmail.com)
 
 ---
 
