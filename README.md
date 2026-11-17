@@ -1,47 +1,66 @@
+# Fakhar Ul Islam
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f4e79,100:6ea8dc&height=220&section=header&text=Fakhar%20Ul%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Development%20Manager%20%E2%80%A2%20WordPress%20Lead%20%E2%80%A2%20AI%20Automation&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
-</p>
+**Senior software engineer and development team lead** · Lahore, Pakistan (UTC+5)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=900&color=6EA8DC&center=true&vCenter=true&width=620&lines=1%2C500%2B+websites+shipped;WordPress+%C3%97+AI+automation;Claude+Code+power+user;Technical+SEO+that+moves+rankings;Idea+%E2%86%92+production%2C+on+deadline" />
-</p>
+[fakhar.tech](https://fakhar.tech) · [LinkedIn](https://www.linkedin.com/in/fakhar-islam-dev/) · [fakhardev@gmail.com](mailto:fakhardev@gmail.com)
 
-<p align="center">
-  <a href="https://fakhar.tech/"><img src="https://img.shields.io/badge/fakhar.tech-0d1117?style=for-the-badge&logo=googlechrome&logoColor=6EA8DC" /></a>
-  <a href="https://linkedin.com/in/fakhar-islam-dev/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=6EA8DC" /></a>
-  <a href="mailto:fakhardev@gmail.com"><img src="https://img.shields.io/badge/Hire_me-6EA8DC?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a>
-</p>
+I build websites and the systems behind them, lead the team that ships them, and keep the servers they run on healthy. Since 2018 I've delivered more than **1,500 websites** on WordPress, WooCommerce, Shopify and Webflow, from custom themes and online stores to membership platforms, CRM integrations and internal tools.
 
-<br />
+Two things now shape most of my work: AI automation that takes routine work off the team, and technical SEO that still holds up months after launch.
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><h3>⚡ Ship</h3><sub>Client to production,<br/>on deadline</sub></td>
-    <td align="center" width="25%"><h3>🤖 Automate</h3><sub>Claude Code, agents,<br/>internal SaaS</sub></td>
-    <td align="center" width="25%"><h3>📈 Rank</h3><sub>Technical SEO,<br/>GTM, analytics</sub></td>
-    <td align="center" width="25%"><h3>🛡 Run</h3><sub>Linux root, cloud,<br/>security</sub></td>
-  </tr>
-</table>
+---
 
-<br />
+## What I do
 
-<h3 align="center">Toolbox</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,php,js,react,nextjs,tailwind,mysql,figma,linux,aws,gcp,cloudflare,nginx,git&theme=dark&perline=7" />
-</p>
+| Area | Focus |
+|---|---|
+| **Ship** | Client work from the first call to production, on deadline: scoping, estimates, code review, QA and handover, for teams of 4–10 developers. |
+| **Automate** | Internal tools, small SaaS products and agent workflows built with Claude Code, so repeatable work runs on its own. |
+| **Rank** | Technical SEO: Core Web Vitals, structured data, crawl and indexing issues, Search Console, and Google Tag Manager and GA4 set up so the numbers can be trusted. |
+| **Run** | Linux servers with root access, AWS, Google Cloud, cPanel/WHM, Cloudflare, DNS, mail and backups. |
+| **Fix** | Slow, broken or hacked sites, including the ones others said to rebuild: profiling, malware cleanup and hardening. |
 
-<br />
+## Experience
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fakharbj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EA8DC&icon_color=6EA8DC" />
-  <img height="165" src="https://streak-stats.demolab.com?user=fakharbj&theme=tokyonight&hide_border=true&background=0d1117&ring=6EA8DC&fire=6EA8DC&currStreakLabel=6EA8DC" />
-</p>
+| Period | Role |
+|---|---|
+| 2018–2019 | Intern, then developer: custom WordPress themes and plugins |
+| 2020–2022 | Project manager: owned client projects from requirements to handover |
+| 2023 | WooCommerce builds from Figma and XD designs, with Core Web Vitals and PageSpeed improved across the board |
+| 2024 | Senior engineer: set the coding standard for a ten-person WordPress team, and led a startup's developers while running its servers |
+| Now | Development team lead |
 
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=fakharbj&bg_color=0d1117&color=6ea8dc&line=1f4e79&point=ffffff&area=true&hide_border=true" />
-</p>
+## Stack
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6ea8dc,50:1f4e79,100:0d1117&height=110&section=footer" width="100%" />
-</p>
+| Area | Tools |
+|---|---|
+| **Build** | WordPress themes and plugins · WooCommerce · Shopify (Liquid) · Webflow · PHP · MySQL · JavaScript · React · Next.js · Tailwind CSS |
+| **Integrate** | REST and third-party APIs · CRMs · Google APIs · payment gateways · webhooks · data migrations |
+| **Automate** | Claude Code · AI agents · internal tooling |
+| **Measure** | Search Console · Google Tag Manager · GA4 · PageSpeed and Core Web Vitals · schema.org structured data |
+| **Operate** | Linux · Nginx · WHM/cPanel · AWS (EC2, Lightsail) · Google Cloud · Cloudflare · DNS · mail servers · Google Workspace · Microsoft 365 · Git |
+| **Design hand-off** | Figma · Adobe XD |
+
+## How I work
+
+**Measure before fixing.** I profile the slow request before guessing at a cure.
+
+**Fix the origin before caching it.** A cache over a slow site hides the problem; it doesn't solve it.
+
+**Keep what the business depends on.** I keep the plugins and integrations a business relies on, and control when and where they run.
+
+**Boring servers are good servers.** Isolated, monitored, backed up, and quiet.
+
+## Featured
+
+**[fakhar.tech](https://fakhar.tech)** is my portfolio, built as a 3D city you travel through by scrolling. Every lit window stands for a site I've shipped, the case studies line the main street, and the city runs on a real 24-hour sun. It's built with Next.js, React, TypeScript and three.js, and the whole city is generated in code, with no 3D models to download. A [plain-text version](https://fakhar.tech/plain) is there too.
+
+## Certifications
+
+JavaScript Algorithms and Data Structures · freeCodeCamp · 2022
+
+Responsive Web Design · freeCodeCamp · 2021
+
+---
+
+**Available for new projects.** Tell me what you're building, or what's broken: [fakhardev@gmail.com](mailto:fakhardev@gmail.com). I read every message myself and usually reply within a day.
